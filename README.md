@@ -1,4 +1,4 @@
-![logo]( https://github.com/Dev-kulshrestha/Dev-Kulshrestha/blob/main/ChatGPT%20Image%20Mar%208%2C%202026%2C%2009_39_48%20AM.png)
+![logo](https://github.com/Dev-kulshrestha/Dev-Kulshrestha/blob/main/WhatsApp%20Image%202026-03-08%20at%209.45.55%20AM.jpeg)
 <h1 align="center">Hi 👋, I'm Dev kulshrestha</h1>
 <h3 align="center">BTech CSE Student | AI/ML & Web Development Learner</h3>
 
